@@ -1,0 +1,6 @@
+streamlit
+pypdf
+requests
+openai
+sentence-transformers
+langchain
